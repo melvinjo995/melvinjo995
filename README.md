@@ -4,7 +4,7 @@
 I'm an **Analytical Professional** skilled in SQL, PowerBi, Python, and Excel, with expertise in product analytics, data extraction, and competitive analysis. Passionate about leveraging data to deliver actionable insights and drive strategic decisions in e-commerce and business analytics.
 
 ## 📄 Resume  
-[📥 Download My Resume](https://github.com/melvinjo995/melvinjo995/blob/main/Melvin_Johnson_Resume.pdf)
+[📥 Download My Resume](https://github.com/melvinjo995/melvinjo995/blob/main/Melvin%20Johnson.pdf)
 
 ## 🛠 Skills  
 <div align="center">
