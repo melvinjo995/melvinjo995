@@ -18,7 +18,7 @@ I'm an **Analytical Professional** skilled in SQL, PowerBi, Python, and Excel, w
 
 ## 📂 Projects  
 🔹 **[E-Commerce Product Analytics & Customer Insights](https://github.com/melvinjo995/PowerBi-Projects/tree/main/AdventureWorks)** (Power BI)  
-🔹 **[Netflix Movies & TV Shows Data Analysis](https://github.com/melvinjo995/netflix-analysis)** (PostgreSQL)  
+🔹 **[Netflix Movies & TV Shows Data Analysis](https://github.com/melvinjo995/sql-projects/tree/main/DataAnalysis_Netflix)** (PostgreSQL)  
 🔹 **[Data Cleaning for Large Datasets](https://github.com/melvinjo995/data-cleaning-python)** (Python)  
 
 ## 🏆 Certifications  
