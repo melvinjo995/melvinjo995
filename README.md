@@ -1,5 +1,4 @@
 # Hi there, I'm Melvin Johnson! 👋
-# Welcome to my Data Analytics portfolio 
 
 ## 🚀 About Me  
 I'm an **Analytical Professional** skilled in SQL, PowerBi, Python, and Excel, with expertise in product analytics, data extraction, and competitive analysis. Passionate about leveraging data to deliver actionable insights and drive strategic decisions in e-commerce and business analytics.
